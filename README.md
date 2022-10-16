@@ -1,1 +1,3 @@
-# Berat-Qamili
+# Hi!
+Berat Qamili
+Front end Developer
